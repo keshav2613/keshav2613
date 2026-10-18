@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | Cloud Infrastructure | AWS | Kubernetes | Terraform
 
-I'm a DevOps Engineer with 3+ years of experience building and automating
+I'm a DevOps Engineer with 4+ years of experience building and automating
 cloud infrastructure, CI/CD pipelines, and containerized environments.
 
 - ☁️ Working with **AWS, Kubernetes, Terraform and Docker**
